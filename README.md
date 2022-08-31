@@ -12,10 +12,3 @@
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=xypecho&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="xypecho's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xypecho&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/xypecho/vue-full-stack-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xypecho&repo=vue-full-stack-project&theme=buefy" />
-</a>
