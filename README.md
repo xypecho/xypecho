@@ -1,16 +1,21 @@
-### Hi there 👋
+### 你好 👋
 
-<!--
-**xypecho/xypecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄很高兴你点开了我的主页
 
-Here are some ideas to get you started:
+- 💼 我是一名前端工程师
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=xypecho&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="xypecho's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xypecho&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/xypecho/vue-full-stack-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xypecho&repo=vue-full-stack-project&theme=buefy" />
+</a>
